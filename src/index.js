@@ -2,8 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import { BrowserRouter, HashRouter } from "react-router-dom";
-import CreatePost from "./pages/CreatePost";
+import { HashRouter } from "react-router-dom";
 
 import reportWebVitals from "./reportWebVitals";
 
